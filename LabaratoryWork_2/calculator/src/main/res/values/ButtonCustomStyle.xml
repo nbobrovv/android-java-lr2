@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonCustomStyle">
+        <item name="android:background">@drawable/button_custom_background</item>
+        <!-- Другие атрибуты стиля для кнопок -->
+    </style>
+</resources>
